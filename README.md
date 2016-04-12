@@ -6,7 +6,7 @@ Bookmarklet to apply "theater mode" to the current page
 Usage
 -----
 
- 1. [Linkify](http://yourjs.com/extras/linkifier) the snippet above
+ 1. [Linkify](http://yourjs.com/extras/linkifier) the [theater-mode.js](theater-mode.js) script
  2. Create a new bookmark
       * Name: **Theater Mode**
       * URL: `<linkified code>`
